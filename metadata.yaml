@@ -1,0 +1,31 @@
+_repo: Anna-FlemingHistoriallinen-romaani_42697
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ivalo, Santeri
+    aliases:
+    - Ingman, Santeri
+    - Ivalo, Herman Aleksander
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '31820'
+    url: http://www.gutenberg.org/2009/agents/31820
+    wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+description: ''
+gutenberg_issued: '2013-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42697'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PH'
+title: 'Anna Fleming: Historiallinen romaani'
+url: http://www.gutenberg.org/ebooks/42697
